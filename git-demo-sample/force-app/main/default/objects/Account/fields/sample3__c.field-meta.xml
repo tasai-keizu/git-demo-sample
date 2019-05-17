@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>sample3__c</fullName>
     <externalId>false</externalId>
-    <label>サンプル3</label>
+    <label>サンプル3_1</label>
     <length>10</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
